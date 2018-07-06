@@ -1,1 +1,3 @@
-# A simple rgb game made with HTML, CSS AND Javascript
+# Color Game
+
+An RGB game created with Javascript, CSS and HTML
